@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshikachare&label=Profile%20views&color=0e75b6&style=flat" alt="sakshikachare" /> </p>
 
-- 💬 Ask me about **Java,**
+- 💬 Ask me about **Java,Spring Boot framework**
 
 - 📫 How to reach me **sakshikachare786@gmail.com**
 
